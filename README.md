@@ -19,6 +19,7 @@
 | [Chapter 2](chapter_02_prompt_engineering/ch_02_prompt_engineering.md) | **Prompt Engineering** | Crafting effective prompts for QA workflows |
 | [Chapter 3](chapter_03_essential_ai_tools_setup/ch_03_essential_ai_tools_setup.md) | **Essential AI Tools Setup** | Cloud AI, desktop tools, coding assistants, IDE integrations |
 | [Chapter 4](chapter_04_ai_powered_test_design_and_automation/ch_04_ai_powered_test_design_and_automation.md) | **AI-Powered Test Design & Automation** | Requirement analysis, test design, bug reports, metrics, Playwright automation |
+| [Chapter 5](chapter_05_ai_agents_for_qa/ch_05_ai_agents_for_qa.md) | **AI Agents for QA** | Agent fundamentals, MCP, n8n, LangFlow, multi-agent systems |
 
 ---
 
