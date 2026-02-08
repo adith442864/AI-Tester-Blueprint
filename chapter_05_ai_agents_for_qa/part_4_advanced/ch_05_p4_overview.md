@@ -9,8 +9,7 @@
 
 **Purpose:** Master code-based agent frameworks for production QA systems  
 **Chapter:** 5 - AI Agents for QA  
-**Part:** 4 - Advanced Agents & Frameworks  
-**Estimated Time:** 12-16 hours
+**Part:** 4 - Advanced Agents & Frameworks
 
 ---
 
@@ -28,15 +27,15 @@ By the end of Part 4, you will be able to:
 
 ## 📋 Part 4 Contents
 
-| Section | Topics | Time |
-|---------|--------|------|
-| [Frameworks Overview](frameworks/ch_05_frameworks_overview.md) | Comparison of LangChain, CrewAI, AutoGen | 1h |
-| [LangChain Agents](frameworks/ch_05_langchain_agents.md) | Building agents with LangChain | 2h |
-| [CrewAI Teams](frameworks/ch_05_crewai_teams.md) | Multi-agent teams | 2h |
-| [Advanced Topics](advanced_topics/ch_05_rag_for_qa.md) | RAG, Vector DBs, Memory | 2h |
-| [Integrations](integrations/ch_05_jira_integration.md) | Jira, GitHub, Slack, CI/CD | 2h |
-| [Projects](projects/ch_05_test_oracle_project.md) | 5 complete QA projects | 4h |
-| [Capstone](capstone/ch_05_capstone_project.md) | Full QA Agent System | 2h |
+| Section | Topics |
+|---------|--------|
+| [Frameworks Overview](frameworks/ch_05_frameworks_overview.md) | Comparison of LangChain, CrewAI, AutoGen |
+| [LangChain Agents](frameworks/ch_05_langchain_agents.md) | Building agents with LangChain |
+| [CrewAI Teams](frameworks/ch_05_crewai_teams.md) | Multi-agent teams |
+| [Advanced Topics](advanced_topics/ch_05_rag_for_qa.md) | RAG, Vector DBs, Memory |
+| [Integrations](integrations/ch_05_jira_integration.md) | Jira, GitHub, Slack, CI/CD |
+| [Projects](projects/ch_05_test_oracle_project.md) | 5 complete QA projects |
+| [Capstone](capstone/ch_05_capstone_project.md) | Full QA Agent System |
 
 ---
 

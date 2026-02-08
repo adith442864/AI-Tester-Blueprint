@@ -9,8 +9,7 @@
 
 **Purpose:** Build AI agents without code using visual platforms  
 **Chapter:** 5 - AI Agents for QA  
-**Part:** 3 - No-Code Agent Platforms  
-**Estimated Time:** 6-8 hours
+**Part:** 3 - No-Code Agent Platforms
 
 ---
 
@@ -28,16 +27,16 @@ By the end of Part 3, you will be able to:
 
 ## 📋 Part 3 Contents
 
-| Section | Topics | Time |
-|---------|--------|------|
-| [n8n Setup](n8n/ch_05_n8n_setup.md) | Installation, configuration | 1h |
-| [n8n AI Nodes](n8n/ch_05_n8n_ai_nodes.md) | AI Agent, LLM Chain, Memory | 1h |
-| [n8n Projects](n8n/ch_05_n8n_test_plan_generator.md) | Test Plan Generator | 1h |
-| [LangFlow Setup](langflow/ch_05_langflow_setup.md) | Installation, configuration | 1h |
-| [LangFlow Components](langflow/ch_05_langflow_components.md) | Agents, Chains, RAG | 1h |
-| [LangFlow Projects](langflow/ch_05_langflow_jira_rag.md) | Jira → Test Case RAG | 1h |
-| [Platform Comparison](ch_05_platform_comparison.md) | n8n vs LangFlow vs code | 0.5h |
-| [Best Practices](ch_05_nocode_best_practices.md) | When to use what | 0.5h |
+| Section | Topics |
+|---------|--------|
+| [n8n Setup](n8n/ch_05_n8n_setup.md) | Installation, configuration |
+| [n8n AI Nodes](n8n/ch_05_n8n_ai_nodes.md) | AI Agent, LLM Chain, Memory |
+| [n8n Projects](n8n/ch_05_n8n_test_plan_generator.md) | Test Plan Generator |
+| [LangFlow Setup](langflow/ch_05_langflow_setup.md) | Installation, configuration |
+| [LangFlow Components](langflow/ch_05_langflow_components.md) | Agents, Chains, RAG |
+| [LangFlow Projects](langflow/ch_05_langflow_jira_rag.md) | Jira → Test Case RAG |
+| [Platform Comparison](ch_05_platform_comparison.md) | n8n vs LangFlow vs code |
+| [Best Practices](ch_05_nocode_best_practices.md) | When to use what |
 
 ---
 

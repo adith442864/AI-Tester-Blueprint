@@ -9,8 +9,7 @@
 
 **Purpose:** Master MCP for building AI-powered QA tools  
 **Chapter:** 5 - AI Agents for QA  
-**Part:** 2 - MCP (Model Context Protocol)  
-**Estimated Time:** 6-8 hours
+**Part:** 2 - MCP (Model Context Protocol)
 
 ---
 
@@ -28,14 +27,14 @@ By the end of Part 2, you will be able to:
 
 ## 📋 Part 2 Contents
 
-| Section | Topics | Time |
-|---------|--------|------|
-| [What is MCP?](mcp_fundamentals/ch_05_what_is_mcp.md) | Protocol overview, architecture | 1h |
-| [MCP Architecture](mcp_fundamentals/ch_05_mcp_architecture.md) | Servers, clients, tools | 1h |
-| [Building QA Tools](building_qa_tools/ch_05_mcp_code_review_tool.md) | Code Review, API Testing, Playwright | 2h |
-| [LLM Connections](llm_connections/ch_05_mcp_claude_desktop.md) | Claude, Cursor, VS Code setup | 1h |
-| [Build MCP Server](build_mcp_server/ch_05_mcp_server_js.md) | JS/TS and Python implementation | 2h |
-| [Mini-Project](mini_project/ch_05_automation_healing_agent.md) | Self-healing test agent | 1h |
+| Section | Topics |
+|---------|--------|
+| [What is MCP?](mcp_fundamentals/ch_05_what_is_mcp.md) | Protocol overview, architecture |
+| [MCP Architecture](mcp_fundamentals/ch_05_mcp_architecture.md) | Servers, clients, tools |
+| [Building QA Tools](building_qa_tools/ch_05_mcp_code_review_tool.md) | Code Review, API Testing, Playwright |
+| [LLM Connections](llm_connections/ch_05_mcp_claude_desktop.md) | Claude, Cursor, VS Code setup |
+| [Build MCP Server](build_mcp_server/ch_05_mcp_server_js.md) | JS/TS and Python implementation |
+| [Mini-Project](mini_project/ch_05_automation_healing_agent.md) | Self-healing test agent |
 
 ---
 
